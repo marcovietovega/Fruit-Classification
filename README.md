@@ -4,7 +4,7 @@ This project uses advanced techniques to accurately identify cherries, strawberr
 
 ### Key Features of This Project
 
-- **Three AI Models**: Started simple and built up to advanced models.
+- **Three Models**: Started simple and built up to advanced models.
 - **Smart Data Processing**: Improved training data by rotating and changing images.
 - **Automatic Fine-Tuning**: Found the best settings automatically.
 - **Reliable Testing**: Used cross-validation to ensure trustworthy results.
