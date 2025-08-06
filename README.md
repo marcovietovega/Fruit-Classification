@@ -86,7 +86,7 @@ This project demonstrates important machine learning skills:
 
 ## Contact
 
-Marco Vieto - [vietomarc@myvuw.ac.nz](mailto:vietomarc@myvuw.ac.nz)
+Marco Vieto Vega - [vietomarc@myvuw.ac.nz](mailto:vietomarc@myvuw.ac.nz)
 
 ---
 
